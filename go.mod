@@ -1,4 +1,4 @@
-module github.com/Irioth/go-core
+module github.com/Irioth/go-core/v2
 
 go 1.12
 
